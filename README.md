@@ -28,7 +28,7 @@ The data has the following attributes:
 
 ## Conclusion
 
-- 3 clusters of countries were created.These clusters are made up of countries with traits of developed, developing and underdeveloped countries respectively.
+- 3 clusters of countries were created.These clusters are made up of countries with traits of developed, developing and underdeveloped countries.
 
 - The Clusters created by the Bisecting KMeans algorithm are more evenly distributed than those created by the KMeans algorithm
 
